@@ -1,11 +1,11 @@
-id_producto,producto ,precio_unitario 
-3,Machaca,15
-7,Chiltomate,16
-11,Caviar de Carpa,17
-15,Rajas con crema,18
-19,Aguachile,19
-23,Nachos,20
-27,Chilaquiles,21
-31,Tamales,22
-35,Flautas,23
-39,Gorditas,24
+id_producto,producto,precio_unitario
+01,Lapiz HB,2.0
+02,Boligrafo azul,4.0
+03,Cuaderno de notas,20.0
+04,Resaltador amarillo,8.0
+05,Tijeras de punta redonda,10.0
+06,Pegamento en barra,12.0
+07,Corrector liquido,15.0
+08,Regla de plastico,10.0
+09,Goma de borrar,3.0
+10,Estuche de colores,25.0
